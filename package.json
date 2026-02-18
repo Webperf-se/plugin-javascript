@@ -47,6 +47,7 @@
   "dependencies": {
     "jsdom": "28.0.0",
     "eslint": "10.0.0",
+    "@eslint/js": "10.0.1",
     "globals": "17.3.0",
     "@sitespeed.io/plugin": "1.0.0"
   },
