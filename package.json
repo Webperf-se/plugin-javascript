@@ -41,14 +41,14 @@
   "devDependencies": {
     "eslint": "10.0.3",
     "@eslint/js": "10.0.1",
-    "serve": "14.2.5",
-    "serve-handler": "6.1.6"
+    "serve": "14.2.6",
+    "serve-handler": "6.1.7"
   },
   "dependencies": {
-    "jsdom": "28.1.0",
+    "jsdom": "29.0.0",
     "eslint": "10.0.3",
     "@eslint/js": "10.0.1",
-    "globals": "17.3.0",
+    "globals": "17.4.0",
     "@sitespeed.io/plugin": "1.0.0"
   },
   "scripts": {
