@@ -9,6 +9,9 @@ on:
         type: string
 env:
   TEST_TAG: webperfse/webperf-core:test
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
