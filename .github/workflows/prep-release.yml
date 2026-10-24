@@ -7,8 +7,14 @@ on:
       - main
     paths:
       - "index.js"
+permissions:
+  contents: read
+
 jobs:
   build:
+    permissions:
+      contents: write
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
